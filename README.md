@@ -19,11 +19,8 @@ This project demonstrates waste detection using a YOLOv8 (You Only Look Once) ob
 
  Computer Vision: OpenCV, TensorFlow/PyTorch
 
- IoT Integration: Sensors and microcontrollers
-
  Software Development: Python, Flask/FastAPI
 
- Mobile Application: Android/iOS app for user interaction
 
 # Installation and Setup
 1.Clone the repository
