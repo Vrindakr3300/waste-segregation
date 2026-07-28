@@ -33,7 +33,7 @@ This project demonstrates how waste is detected using YOLOv8 (You Only Look Once
 
 
 # Usage
-Ensure your webcam is connected.
+Ensure your webcam is connected...
 
 Run the system to detect and classify waste.
 
